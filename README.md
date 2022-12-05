@@ -1,10 +1,12 @@
-# dungeon ai
+# dungeon ai 🔮
 
-> your personal dungeon master, powered by [chatGPT](https://chat.openai.com)
+> 🧙‍♂️ your personal dungeon master, powered by [chatGPT](https://chat.openai.com)
 
-**tldr; a CLI for Dungeons & Dragons**
+💍🏰⚔️🐲🗡️🛡️  
+  
+this app takes user the user on an adventure through a story crafted by AI dungeon master (who was carefully explained their job and will try their best!).
 
-this app takes user the user on an adventure through a story crafted by AI dungeon master (who was carefully explained their job and will try their best!). a collaboration of human and artificial imaginations <3
+a collaboration of human and artificial imaginations - think _CLI_ for _Dungeons & Dragons!_
 
 this app uses the [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) package to interface with ChatGPT. shoutout to [Travis Fischer](https://github.com/transitive-bullshit) for creating this banger API wrapper!
 
