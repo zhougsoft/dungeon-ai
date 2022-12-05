@@ -1,0 +1,23 @@
+{
+  "name": "dungeon-ai",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "a personal ai dungeon master",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "d&d",
+    "chatGPT",
+    "openai"
+  ],
+  "author": "zhoug",
+  "license": "MIT",
+  "dependencies": {
+    "chatgpt": "^1.1.3",
+    "dotenv": "^16.0.3",
+    "inquirer": "^9.1.4"
+  }
+}
